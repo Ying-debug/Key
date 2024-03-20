@@ -1,5 +1,13 @@
 # Improving the Spatial Resolution of Solar Images Using Super-resolution Diffusion GANs
-
+<div align="center">
+  " target="_blank">Zhisheng&nbsp;Xiao</a> &emsp; <b>&middot;</b> &emsp;
+  " target="_blank">Karsten&nbsp;Kreis</a> &emsp; <b>&middot;</b> &emsp;
+  " target="_blank">Arash&nbsp;Vahdat</a>
+  <br> <br>
+  <a href="https://nvlabs.github.io/denoising-diffusion-gan/" target="_blank">Project&nbsp;Page</a>
+</div>
+<br>
+<br>
 ## Training Super-resolution Diffusion GANs ##
 We use the following commands to train Super-resolution Diffusion GANs on the solar image dataset.
 ```
