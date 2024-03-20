@@ -1,8 +1,8 @@
 # Improving the Spatial Resolution of Solar Images Using Super-resolution Diffusion GANs
 <div align="center">
-  Zhisheng&nbsp;Xiao</a> &emsp; <b>&middot;</b> &emsp;
-  Karsten&nbsp;Kreis</a> &emsp; <b>&middot;</b> &emsp;
-  Arash&nbsp;Vahdat</a>
+  Zhisheng&nbsp;Xiao &emsp; <b>&middot;</b> &emsp;
+  Karsten&nbsp;Kreis &emsp; <b>&middot;</b> &emsp;
+  Arash&nbsp;Vahdat
   <br> <br>
 </div>
 
