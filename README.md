@@ -4,7 +4,6 @@
   " target="_blank">Karsten&nbsp;Kreis</a> &emsp; <b>&middot;</b> &emsp;
   " target="_blank">Arash&nbsp;Vahdat</a>
   <br> <br>
-  <a href="https://nvlabs.github.io/denoising-diffusion-gan/" target="_blank">Project&nbsp;Page</a>
 </div>
 <br>
 <br>
