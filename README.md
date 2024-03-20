@@ -2,11 +2,12 @@
 <div align="center">
   Wei&nbsp;Song &emsp; <b>&middot;</b> &emsp;
   Ying&nbsp;Ma &emsp; <b>&middot;</b> &emsp;
-  Haoying&nbsp;Sun &emsp; <b>&middot;</b> &emsp;\
+  Haoying&nbsp;Sun &emsp; <b>&middot;</b> &emsp;
   Xiaobing&nbsp;Zhao &emsp; <b>&middot;</b> &emsp;
   Ganghua&nbsp;Lin
   <br> <br>
 </div>
+
 ## Training Super-resolution Diffusion GANs ##
 We use the following commands to train Super-resolution Diffusion GANs on the solar image dataset.
 ```
