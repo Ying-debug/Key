@@ -1,12 +1,12 @@
 # Improving the Spatial Resolution of Solar Images Using Super-resolution Diffusion GANs
 <div align="center">
-  " target="_blank">Zhisheng&nbsp;Xiao</a> &emsp; <b>&middot;</b> &emsp;
-  " target="_blank">Karsten&nbsp;Kreis</a> &emsp; <b>&middot;</b> &emsp;
-  " target="_blank">Arash&nbsp;Vahdat</a>
+  Zhisheng&nbsp;Xiao</a> &emsp; <b>&middot;</b> &emsp;
+  Karsten&nbsp;Kreis</a> &emsp; <b>&middot;</b> &emsp;
+  Arash&nbsp;Vahdat</a>
   <br> <br>
 </div>
-<br>
-<br>
+
+
 ## Training Super-resolution Diffusion GANs ##
 We use the following commands to train Super-resolution Diffusion GANs on the solar image dataset.
 ```
