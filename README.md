@@ -23,7 +23,7 @@ python3 test_ddgan_LR.py --image_size 256  --num_channels 3 --num_channels_dae 6
 ```
 ## Acknowledgement
 
-This project is based on [Denoising Diffusion GANs]([https://github.com/lllyasviel/ControlNet](https://github.com/NVlabs/denoising-diffusion-gan)). Thanks for their awesome work.
+This project is based on [Denoising Diffusion GANs](https://github.com/NVlabs/denoising-diffusion-gan). Thanks for their awesome work.
 
 
 
